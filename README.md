@@ -1,6 +1,6 @@
 # 📊 AdventureWorks Sales Dashboard – Power BI Project
 
-This is a complete **Power BI dashboard project** built using the [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) dataset. It demonstrates strong skills in **data modeling**, **DAX**, **visual storytelling**, and **business intelligence reporting** for entry-level data analyst roles.
+This is a complete **Power BI dashboard project** built using the [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) dataset. It demonstrates strong skills in **data modeling**, **DAX**, **visual storytelling**, and **business intelligence reporting** .
 
 ---
 
